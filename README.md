@@ -10,3 +10,7 @@ All the tools required to run all the scripts can be installed by running the fo
 ```bash
 pip install -r requirements.txt
 ```
+## Pipeline for generating rephrasing of reviews
+
+![Pipeline](./pipeline.jpeg)
+
