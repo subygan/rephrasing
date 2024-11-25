@@ -1,4 +1,4 @@
-#### A methodology for sanitizing Amazon reviews with ChatGPT
+#### Mitigating user’s self-disclosure in digital platforms with ChatGPT
 
 This repository contains the generation/analytics code and data for the paper "Mitigating user’s self-disclosure in digital platforms with ChatGPT"
 
